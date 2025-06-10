@@ -11,6 +11,6 @@ In the blog, [macOS Authenticated Enrolment Passthrough in Jamf School](https://
 
 #### Blog Resources
 
-Simple Plist with required keys
+[Simple Plist](https://github.com/cantscript/macOSAuthenticatedEnrolmentPassthroughinJamfSchool/blob/main/com.jamf.connect.login.plist) with required keys
 
-Configuration Profile to use with Jamf School & Connect. Don't forget to change the Organisation Name to suit your needs.
+[Configuration Profile](https://github.com/cantscript/macOSAuthenticatedEnrolmentPassthroughinJamfSchool/blob/main/Jamf%20Connect%20Enrollment%20User%20for%20School.mobileconfig) to use with Jamf School & Connect. Don't forget to change the Organisation Name to suit your needs.
