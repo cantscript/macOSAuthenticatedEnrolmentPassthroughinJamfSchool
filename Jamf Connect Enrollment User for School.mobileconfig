@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>EnrollmentRealName</key>
+			<string>%FullName%</string>
+			<key>EnrollmentUserName</key>
+			<string>%Email%</string>
+			<key>PayloadDisplayName</key>
+			<string>Jamf Connect Enrollment User</string>
+			<key>PayloadIdentifier</key>
+			<string>7CC58283-D774-4087-9685-902D803B80F1</string>
+			<key>PayloadOrganization</key>
+			<string>Your Company</string>
+			<key>PayloadType</key>
+			<string>com.jamf.connect.login</string>
+			<key>PayloadUUID</key>
+			<string>7CC58283-D774-4087-9685-902D803B80F1</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Jamf Connect Enrollment User</string>
+	<key>PayloadDisplayName</key>
+	<string>Jamf Connect Enrollment User</string>
+	<key>PayloadEnabled</key>
+	<true/>
+	<key>PayloadIdentifier</key>
+	<string>D2F3CA53-1C6B-4126-A799-EDEB83922CC2</string>
+	<key>PayloadOrganization</key>
+	<string>Your Company</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>B92DD4C2-7EA3-4DA5-952A-62C5BD552FA7</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
